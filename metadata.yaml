@@ -1,4 +1,8 @@
 _repo: Histoire-de-l-Emigration-pendant-la-Revolution-Francaise-Tome-3-Tome-III-Du-18-Brumaire-a-la-__47473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47473-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Daudet, Ernest
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '24919'
     url: http://www.gutenberg.org/2009/agents/24919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47473#Histoire-de-l-Emigration-pendant-la-Revolution-Francaise-Tome-3-Tome-III-Du-18-Brumaire-a-la-_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-11-27'
 gutenberg_type: Text
